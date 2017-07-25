@@ -1,3 +1,6 @@
+(Beta) For development use only !
+==================================
+
 Electrum - Lightweight Bitcoin client
 =====================================
 
